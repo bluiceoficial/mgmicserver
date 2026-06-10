@@ -1,5 +1,8 @@
 # MGMicServer
 
+> [!NOTE]
+> This repository has been migrated to Codeberg, please see: https://codeberg.org/bluice/mgmicserver
+
 Com MGMicServer você pode usar o microfone do seu computador principal (servidor) e enviar 
 o áudio sem ruído e chiados para o seu computador secundário (cliente).
 
